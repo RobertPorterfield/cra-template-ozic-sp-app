@@ -8,6 +8,10 @@
     "typescript",
     "SharePoint"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobertPorterfield/cra-template-ozic-sp-app.git"
+  },
   "description": "Customized Create React App TypeScript template for SharePoint.",
   "main": "template.json",
   "files": [
