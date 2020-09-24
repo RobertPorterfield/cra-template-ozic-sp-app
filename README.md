@@ -1,8 +1,8 @@
-# cra-template-ozic
+# cra-template-ozic-sp-app
 
-This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
+This is the TypeScript template for [Create React App](https://github.com/facebook/create-react-app) modified to support SharePoint.
 
-To use this template, add `--template typescript` when creating a new app.
+To use this template, add `--template file:[path-to-template\]cra-template-ozic-sp-app` when creating a new app.
 
 For example:
 
