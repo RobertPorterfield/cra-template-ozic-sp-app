@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-ozic-sp-app",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "SharePoint"
+  ],
+  "description": "Customized Create React App TypeScript template for SharePoint.",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
+
